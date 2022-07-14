@@ -4,4 +4,16 @@
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohki-ha&layout=compact&langs_count=5&theme=dracula"/>
 
+<!--
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to&theme=dark)](https://github.com/thepracticaldev/dev.to)
+-->
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/kohki-ha/" target="_blank"><img align="left" width="22px" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
