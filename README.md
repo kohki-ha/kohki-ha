@@ -10,5 +10,5 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/kohki-ha/" target="_blank"><img align="left" width="50px" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kohki-ha/" target="_blank"><img align="left" width="100px" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
