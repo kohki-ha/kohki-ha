@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/kohki-ha/" target="_blank"><img align="left" height="30px" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kohki-ha/" target="_blank"><img height="30px border-radius="20px";" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <!--
-<a href="https://www.instagram.com/k.o.h.k.i/" target="_blank"><img align="left" width="100px" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/k.o.h.k.i/" target="_blank"><img height="30px" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 -->
 
-<a href="mailto:kohkihasegawa@151@gmail.com" target="_blank"><img align="left" height="30px" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:kohkihasegawa@151@gmail.com" target="_blank"><img height="30px" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
