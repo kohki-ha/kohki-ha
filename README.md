@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Computer Engineering at UTFPR ...kohki-ha
+- 🌱 My name is Thales
+- 🤞 I'm from Brazil
+- ⚡ I’m currently studying Computer Engineering at UTFPR ...kohki-ha
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohki-ha&layout=compact&langs_count=5&theme=vision-friendly-dark"/>
 
