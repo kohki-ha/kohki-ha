@@ -2,7 +2,7 @@
 
 - 🌱 My name is Thales
 - 🤞 I'm from Brazil
-- ⚡ I’m currently studying Computer Engineering at UTFPR
+- ⚡ I’m currently studying Software Engineering at UTFPR
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohki-ha&layout=compact&langs_count=5&theme=vision-friendly-dark"/>
 
